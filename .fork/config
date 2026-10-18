@@ -1,0 +1,6 @@
+# Settings for .fork/sync.sh in this fork.
+UPSTREAM_URL="https://github.com/heygen-com/hyperframes"
+TRACK="release"            # release: newest vX.Y.Z tag | branch: tip of UPSTREAM_BRANCH
+UPSTREAM_BRANCH="main"
+POINTER_TARGETS="CLAUDE.md AGENTS.md"
+LOCAL_TZ="America/Chicago"
